@@ -1,0 +1,22 @@
+{
+  "name": "hololive-dreams-companion-toolkit",
+  "displayName": "hololive Dreams Companion Toolkit",
+  "programType": "companion-toolkit",
+  "repositoryContents": "Project documentation and artwork",
+  "downloadPage": "https://meteoric-rook-835.github.io/",
+  "descriptionSource": "Project owner",
+  "sections": [
+    "Collection notes",
+    "Session records",
+    "Profile groups"
+  ],
+  "topics": [
+    "hololive-dreams-companion-toolkit",
+    "hololive-dreams-tools",
+    "hololive-dreams-menu",
+    "hololive-dreams-settings",
+    "hololive-dreams-configs",
+    "hololive-dreams-collection-notes",
+    "hololive-dreams-session-records"
+  ]
+}
